@@ -1,0 +1,45 @@
+@charcet "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+
+body{
+    background-color: rgb(188, 188, 209);
+}
+
+button{ padding: 30px;
+    font: bolder 2em arial;
+    border-radius: 10px;
+    box-shadow: rgba(74, 69, 69, 0.901) 2px 2px 2px;
+    background-color: rgb(187, 210, 203);
+   
+}
+
+button:hover{
+    background-color: rgba(162, 197, 156, 0.868);
+    transition: 0.8s;
+}
+
+#interface{
+    margin: auto;
+    width: 1000px;
+    height: 600px;
+    background-color: rgb(180, 227, 200);
+    border-radius: 10px;
+    padding: 30px;
+    box-shadow: black 2px 2px 2px;
+}
+
+hr{
+    background-color: rgb(46, 54, 54);
+    
+}
+
+h1{
+    font-family: 'Zen Dots', cursive;
+}
+
+section{
+    font: bold 1em arial;
+
+    
+}

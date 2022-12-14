@@ -1,0 +1,37 @@
+@charset "utf-8";
+
+h1{
+    font: normal bold 2.5em arial;
+    
+}
+
+button{
+    border-radius: 20px;
+    padding: 30px;
+    font: normal bolder 1.5em arial;
+    background-color: rgb(241, 215, 15); 
+    color:rgb(160, 86, 7)
+}
+
+button:hover{
+    background-color: rgba(151, 138, 27, 0.81);
+    transition: 0.5s;
+}
+
+#interface{
+    background-color: rgb(145, 138, 11);
+    width: 800px;
+    height: 628px;
+    padding: 20px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px;
+}
+
+body{
+    background-color: rgb(156, 111, 43);
+}
+
+section{
+    font: bolder 1em arial;
+}
