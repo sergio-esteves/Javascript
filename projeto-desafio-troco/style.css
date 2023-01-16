@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font: normal 1.5rem arial;
+}
+
+h1{
+    margin: 10px 10px;
+    padding: 10px; 
+}
+
+button{
+    margin-left: 10px;
+    padding: 30px;
+    font: bold 1.2rem arial;
+    border-radius: 10px;
+    cursor:pointer;
+    
+}
+
+button:hover{
+    background-color: rgba(226, 220, 220, 0.877);
+    transition: 0.3s;
+}
